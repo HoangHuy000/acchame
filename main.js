@@ -1,0 +1,1 @@
+alert("ADMIN SẼ CẬP NHẬT ACC LIÊN TỤC MỖI NGÀY")
